@@ -1,0 +1,64 @@
+---
+title: "Homework_2"
+author: "Seper Abdi"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+```{r}
+require(dplyr)
+ccA <- read.csv("countrycharsA-1.csv")
+ccB <- read.csv("countrycharsB-1.csv")
+gdb_1 <- read.csv("gdp-1.csv")
+```
+### 1. Use the *str()*command to examine the characteristics of each of the four databases. Then append ccA to ccB to make one large data frame and reexamine the output with *str()*. 
+```{r}
+str(ccB)
+```
+  -- append ccA to ccB to make one large data frame
+```{r}
+combineddataset <- rbind(ccA, ccB)
+str(combineddataset)
+```
+### 2. Append the *gdp* data to the data frame you created in Number 1. Be careful here and make sure you examine the structure of the resulting data frame to ensure things are correct. Examine the output with *str()*.
+```{r}
+combineddataset2 <- cbind(combineddataset, gdb_1) 
+str(combineddataset2)
+```
+### 3. How many times after 1980 did a country have gdp<20000? 
+  -- it will work select gdp more thatn 20k
+```{r}
+srot_by_gdp <- (combineddataset2[order(combineddataset2$gdp, decreasing = FALSE), ])  
+identify_rows <-(combineddataset2 $ gdp >= 20000)
+gdp_over_20k <- combineddataset2[identify_rows, ]
+print("Count of repeated values")
+length(which(gdp_over_20k$gdp >= 20000))
+```
+### 4. Merge your data frame from 1 &2 above with the *coords* data via three different techniques: inner, right, and left merge. Compare the dimensions of each of the resulting data frame and explain any differences you see.  
+```{r}
+left_merg = merge(x=combineddataset,y=combineddataset2,by = "continent",all.x=TRUE) 
+
+inner_right= combineddataset %>% inner_join(combineddataset2,by="lifeExp")
+
+```
+### 5 a.) Using the data from the inner merge, use the *quantile()* function to determine the quartiles of gdp.  
+```{r}
+gdp.q <- quantile(inner_right$gdp)
+gdp.q
+```
+### 5 b.) Create a new variable in the data set called gdp.q based on the quartile that the a given observation’s gdp value lies in. Print a frequency table of this new variable and explain how you can  use  it  to  demonstrate  that your  procedure  is  working  properly.  (The *findInterval()* function might be helpful).    
+**- I have problem with this part I cannot understanding whats the issues ? Could you please help me.**
+```{r}
+#data1 <- data.frame(combineddataset, lower = findInterval(combineddataset2, vec = NULL))
+#data1
+```
+
+### 5 c.) Using dplyr’s group_by and summarize functioins, find the mean absolute value of the latitude for each quartile. Based on your findings, draw a conclusion about the relationship between GDP 
+```{r}
+mean_1 <- mean(combineddataset2$ gdp, na.rm = TRUE)
+sd_1 <-sd(combineddataset2$ gdp, na.rm = TRUE)
+sd_1
+mean_1
+```
+
