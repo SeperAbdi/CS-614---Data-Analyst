@@ -2,7 +2,9 @@
 title: "Homework_2"
 author: "Seper Abdi"
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
@@ -61,4 +63,20 @@ sd_1 <-sd(combineddataset2$ gdp, na.rm = TRUE)
 sd_1
 mean_1
 ```
+### 6. (Bonus) Create a new data set that, for each year, lists the median gdp and also identifies the country whose  gdp  is  nearest  to  the median. 
+## for the assignment no.6 I just could'nt add the country to the data frame, I have to get some help for this part
+```{r}
+# Create an Empty DataFrame
+df = data.frame(combineddataset2[, c('year', 'gdp')])
+summary(df)
+# Median of the column by group 
+df_median <- aggregate(x=df$gdp,by = list(df$year),FUN=median)
+colnames(df_median)
+names(df_median)[names(df_median) == "Group.1"] <- "YEAR"
+names(df_median)[names(df_median) == "x"] <- "gdp-Median"
+df_median
+plot(df_median)
+```
+
+
 
