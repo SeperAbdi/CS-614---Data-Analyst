@@ -1,0 +1,865 @@
+"Tag_Group","Gender","Age","Race","Location","Prof_Score"
+"1.1.1","female","36-45","unknown","North America",0.848484848484848
+"10.1.1","female","26-35","americanin","Asia",0.810810810810811
+"100.1.1","male","18-25","white","Asia",0.716666666666667
+"101.1.1","male","36-45","white","Europe",0.873333333333333
+"102.1.1","female","26-35","asian","Asia",0.783333333333333
+"103.1.1","male","18-25","black","Asia",0.782352941176471
+"104.1.1","male","26-35","asian","Asia",0.729411764705882
+"105.1.1","female","36-45","americanin","North America",0.85625
+"106.1.1","male","26-35","asian","Asia",0.766666666666667
+"107.1.1","male","18-25","black","Asia",0.8
+"108.1.1","male","26-35","white","North America",0.871428571428571
+"109.1.1","female","26-35","asian","Asia",0.73125
+"11.1.1","male","26-35","asian","Asia",0.728571428571429
+"110.1.1","male","56-65","white","North America",0.866666666666667
+"111.1.1","male","26-35","asian","Asia",0.833333333333333
+"112.1.1","male","36-45","unknown","North America",0.864285714285714
+"113.1.1","female","56-65","white","North America",0.876923076923077
+"114.1.1","male","26-35","asian","Asia",0.814285714285714
+"115.1.1","male","26-35","asian","Asia",0.745454545454545
+"116.1.1","male","26-35","asian","Asia",0.8
+"117.1.1","male","66+","white","North America",0.878947368421053
+"118.1.1","male","26-35","asian","Asia",0.786666666666667
+"119.1.1","male","26-35","white","North America",0.805263157894737
+"12.1.1","male","26-35","asian","Asia",0.831034482758621
+"120.1.1","male","36-45","asian","Asia",0.772222222222222
+"121.1.1","male","26-35","asian","Asia",0.755555555555556
+"122.1.1","female","26-35","asian","Asia",0.871428571428571
+"123.1.1","male","36-45","asian","Asia",0.805263157894737
+"124.1.1","female","36-45","asian","Asia",0.857894736842105
+"125.1.1","female","36-45","white","North America",0.765
+"126.1.1","female","46-55","asian","Asia",0.816666666666667
+"127.1.1","male","36-45","asian","Asia",0.780769230769231
+"13.1.1","male","26-35","asian","Asia",0.80952380952381
+"14.1.1","male","26-35","asian","Asia",0.736
+"15.1.1","male","36-45","asian","Asia",0.761290322580645
+"16.1.1","male","56-65","white","Asia",0.8
+"17.1.1","male","36-45","white","North America",0.796875
+"18.1.1","male","26-35","asian","Asia",0.786486486486486
+"19.1.1","male","26-35","asian","Asia",0.671428571428571
+"2.1.1","male","26-35","white","North America",0.82
+"20.1.1","male","36-45","asian","Asia",0.75
+"21.1.1","female","46-55","asian","Asia",0.766666666666667
+"22.1.1","female","46-55","asian","North America",0.828
+"23.1.1","female","36-45","white","North America",0.873333333333333
+"24.1.1","female","26-35","white","North America",0.819444444444444
+"25.1.1","female","36-45","white","North America",0.84375
+"26.1.1","female","36-45","white","North America",0.793103448275862
+"27.1.1","male","46-55","white","Africa",0.83
+"28.1.1","male","26-35","white","North America",0.810344827586207
+"29.1.1","female","46-55","white","North America",0.860714285714286
+"3.1.1","female","56-65","white","North America",0.804
+"30.1.1","female","36-45","black","North America",0.821739130434783
+"31.1.1","male","26-35","asian","Asia",0.735483870967742
+"32.1.1","female","56-65","asian","Asia",0.819354838709677
+"33.1.1","female","26-35","white","North America",0.843243243243243
+"34.1.1","male","26-35","asian","Asia",0.714814814814815
+"35.1.1","male","26-35","white","North America",0.842424242424242
+"36.1.1","male","36-45","asian","Asia",0.77
+"37.1.1","female","36-45","white","North America",0.807692307692308
+"38.1.1","male","26-35","white","North America",0.834375
+"39.1.1","male","26-35","asian","Asia",0.797674418604651
+"4.1.1","male","26-35","asian","Asia",0.79
+"40.1.1","male","26-35","asian","Asia",0.797368421052632
+"42.1.1","male","26-35","asian","Asia",0.779411764705882
+"43.1.1","female","36-45","white","North America",0.77027027027027
+"44.1.1","male","26-35","asian","Asia",0.783333333333333
+"45.1.1","female","26-35","white","North America",0.820588235294118
+"46.1.1","male","26-35","asian","Asia",0.765853658536585
+"47.1.1","female","26-35","asian","Asia",0.776923076923077
+"48.1.1","male","36-45","white","North America",0.82
+"49.1.1","female","26-35","white","North America",0.86578947368421
+"5.1.1","male","46-55","white","North America",0.774285714285714
+"50.1.1","male","26-35","asian","Asia",0.755
+"51.1.1","male","26-35","asian","Asia",0.819444444444444
+"52.1.1","male","36-45","white","Europe",0.766666666666667
+"53.1.1","male","18-25","asian","Asia",0.679411764705882
+"54.1.1","female","46-55","black","North America",0.81
+"55.1.1","female","46-55","asian","North America",0.810714285714286
+"56.1.1","male","26-35","asian","Asia",0.634375
+"57.1.1","male","26-35","asian","Asia",0.826470588235294
+"58.1.1","male","36-45","asian","Asia",0.775675675675676
+"59.1.1","female","36-45","white","North America",0.82258064516129
+"6.1.1","female","56-65","asian","Asia",0.790625
+"60.1.1","female","46-55","white","North America",0.771052631578947
+"61.1.1","male","56-65","asian","Asia",0.840540540540541
+"62.1.1","male","36-45","white","Asia",0.84
+"63.1.1","male","46-55","asian","Asia",0.793103448275862
+"64.1.1","male","26-35","asian","Asia",0.845
+"65.1.1","male","26-35","white","North America",0.8375
+"66.1.1","male","36-45","white","North America",0.820689655172414
+"67.1.1","female","26-35","asian","Asia",0.797058823529412
+"68.1.1","female","66+","white","North America",0.891428571428571
+"69.1.1","male","36-45","asian","North America",0.820689655172414
+"7.1.1","male","26-35","americanin","Asia",0.747826086956522
+"70.1.1","female","26-35","asian","North America",0.817241379310345
+"71.1.1","female","46-55","white","North America",0.840909090909091
+"72.1.1","male","36-45","white","North America",0.846875
+"73.1.1","female","36-45","black","North America",0.825806451612903
+"74.1.1","male","46-55","white","North America",0.858333333333333
+"75.1.1","female","66+","white","North America",0.825
+"76.1.1","female","56-65","white","North America",0.8275
+"77.1.1","female","36-45","white","North America",0.856756756756757
+"79.1.1","unknown","66+","unknown","North America",1
+"8.1.1","male","26-35","asian","Asia",0.777777777777778
+"81.1.1","female","36-45","white","North America",0.9
+"82.1.1","male","26-35","unknown","North America",0.811111111111111
+"83.1.1","male","36-45","white","North America",0.853333333333333
+"84.1.1","male","36-45","white","North America",0.814285714285714
+"85.1.1","female","26-35","white","North America",0.85
+"86.1.1","male","26-35","white","North America",0.85
+"87.1.1","male","26-35","asian","Asia",0.727777777777778
+"88.1.1","male","18-25","asian","North America",0.853846153846154
+"89.1.1","female","18-25","asian","North America",0.85625
+"9.1.1","female","36-45","black","North America",0.806666666666667
+"90.1.1","female","46-55","asian","North America",0.8
+"91.1.1","male","26-35","white","North America",0.80625
+"92.1.1","female","56-65","asian","Asia",0.688888888888889
+"93.1.1","male","26-35","white","North America",0.814285714285714
+"94.1.1","female","26-35","white","North America",0.89
+"95.1.1","male","26-35","asian","North America",0.89375
+"96.1.1","male","56-65","white","North America",0.9
+"97.1.1","female","26-35","white","North America",0.852941176470588
+"98.1.1","male","36-45","white","Asia",0.8
+"99.1.1",NA,NA,NA,NA,0.75
+"1.1.2","male","26-35","white","North America",0.79375
+"10.1.2","male","18-25","asian","Asia",0.531578947368421
+"100.1.2","female","36-45","white","North America",0.877777777777778
+"101.1.2","male","26-35","asian","Asia",0.806666666666667
+"102.1.2","female","26-35","white","North America",0.85625
+"103.1.2","male","36-45","white","Europe",0.864705882352941
+"104.1.2","male","26-35","asian","Asia",0.758333333333333
+"105.1.2","male","26-35","asian","Asia",0.64
+"106.1.2","female","26-35","white","North America",0.75
+"107.1.2","female","36-45","white","North America",0.84
+"108.1.2","male","46-55","white","North America",0.847058823529412
+"109.1.2","male","36-45","white","North America",0.9
+"11.1.2","male","26-35","asian","Asia",0.685
+"110.1.2","female","26-35","white","North America",0.817647058823529
+"111.1.2","male","26-35","asian","Asia",0.833333333333333
+"112.1.2","female","36-45","unknown","North America",0.841176470588235
+"113.1.2","male","26-35","white","North America",0.905555555555556
+"114.1.2","female","56-65","white","Europe",0.827777777777778
+"115.1.2","female","26-35","white","North America",0.876470588235294
+"116.1.2","male","26-35","white","North America",0.852380952380952
+"117.1.2","male","26-35","white","North America",0.873684210526316
+"118.1.2","female","36-45","white","North America",0.86
+"119.1.2","female","26-35","white","North America",0.852631578947369
+"12.1.2","male","18-25","asian","Asia",0.552380952380952
+"120.1.2","female","26-35","white","North America",0.855
+"121.1.2","male","26-35","asian","Asia",0.538888888888889
+"122.1.2","male","46-55","white","North America",0.854545454545454
+"123.1.2","female","26-35","white","North America",0.819047619047619
+"124.1.2","female","26-35","asian","Asia",0.733333333333333
+"125.1.2","female","56-65","white","North America",0.81875
+"126.1.2","male","26-35","asian","Asia",0.78
+"127.1.2","male","26-35","white","North America",0.852380952380952
+"128.1.2","male","26-35","white","North America",0.825
+"129.1.2","male","18-25","americanin","North America",0.810526315789474
+"13.1.2","male","26-35","pacificisl","North America",0.758823529411765
+"130.1.2","male","26-35","white","North America",0.861111111111111
+"131.1.2","female","26-35","white","North America",0.794444444444445
+"132.1.2","female","18-25","americanin","North America",0.766666666666667
+"133.1.2","male","36-45","asian","Asia",0.835294117647059
+"134.1.2","male","36-45","white","North America",0.776470588235294
+"135.1.2","male","26-35","asian","Asia",0.815384615384615
+"136.1.2","male","26-35","white","North America",0.81
+"137.1.2","male","36-45","white","North America",0.842857142857143
+"138.1.2","male","26-35","asian","Asia",0.657894736842105
+"139.1.2","female","36-45","white","North America",0.875
+"14.1.2","female","36-45","white","North America",0.79
+"140.1.2","male","36-45","white","Europe",0.866666666666667
+"141.1.2","male","26-35","asian","Asia",0.805882352941176
+"142.1.2","male","26-35","white","North America",0.93125
+"143.1.2","female","18-25","white","North America",0.852941176470588
+"144.1.2","female","36-45","white","North America",0.882352941176471
+"145.1.2","male","26-35","white","North America",0.877777777777778
+"146.1.2","female","26-35","white","North America",0.889473684210526
+"147.1.2","female","46-55","white","North America",0.847619047619048
+"148.1.2","female","36-45","white","North America",0.786666666666667
+"149.1.2","female","46-55","asian","North America",0.847058823529412
+"15.1.2","female","18-25","black","North America",0.790476190476191
+"150.1.2","male","26-35","black","North America",0.852631578947369
+"151.1.2","male","36-45","white","North America",0.828571428571429
+"152.1.2","male","26-35","asian","Asia",0.835294117647059
+"153.1.2","male","26-35","white","North America",0.79
+"155.1.2","male","26-35","white","North America",0.852941176470588
+"156.1.2","female","26-35","white","North America",0.878947368421053
+"157.1.2","male","46-55","white","North America",0.810526315789474
+"158.1.2","female","46-55","asian","North America",0.821052631578947
+"159.1.2","female","26-35","white","North America",0.877777777777778
+"16.1.2","male","26-35","asian","Asia",0.829411764705882
+"160.1.2","male","26-35","white","North America",0.836363636363636
+"161.1.2","male","26-35","black","North America",0.889473684210526
+"162.1.2","male","18-25","asian","Asia",0.775
+"163.1.2","female","26-35","white","North America",0.794736842105263
+"164.1.2","female","26-35","asian","Asia",0.761111111111111
+"165.1.2","male","18-25","black","North America",0.766666666666667
+"166.1.2","male","56-65","white","North America",0.88421052631579
+"167.1.2","female","36-45","black","North America",0.868421052631579
+"168.1.2","female","26-35","asian","Asia",0.892307692307692
+"169.1.2","female","46-55","white","North America",0.810526315789474
+"17.1.2","male","36-45","asian","Asia",0.726315789473684
+"170.1.2","female","56-65","white","North America",0.858823529411765
+"171.1.2","male","26-35","white","North America",0.86875
+"172.1.2","male","26-35","white","North America",0.838888888888889
+"173.1.2","female","26-35","white","North America",0.88
+"174.1.2","female","46-55","white","North America",0.885714285714286
+"175.1.2","female","18-25","white","North America",0.861904761904762
+"176.1.2","female","26-35","white","North America",0.780952380952381
+"177.1.2","female","66+","white","North America",0.9
+"178.1.2","male","26-35","asian","Asia",0.786363636363636
+"179.1.2","male","26-35","white","North America",0.821052631578947
+"18.1.2","male","26-35","asian","Asia",0.721052631578947
+"180.1.2","male","26-35","asian","Asia",0.652380952380952
+"181.1.2","male","26-35","white","North America",0.835
+"182.1.2","female","56-65","asian","Asia",0.85
+"183.1.2","female","36-45","white","North America",0.865
+"184.1.2","male","26-35","asian","Asia",0.729411764705882
+"185.1.2","male","26-35","white","North America",0.794117647058824
+"186.1.2","male","26-35","white","North America",0.861538461538461
+"187.1.2","female","56-65","white","North America",0.855555555555556
+"188.1.2","female","36-45","white","North America",0.857894736842105
+"189.1.2","female","46-55","white","North America",0.8
+"19.1.2","female","26-35","white","North America",0.8
+"190.1.2","male","26-35","white","North America",0.868421052631579
+"191.1.2","male","26-35","white","North America",0.9
+"192.1.2","male","46-55","white","North America",0.863157894736842
+"193.1.2","male","26-35","white","North America",0.87
+"194.1.2","male","46-55","white","North America",0.833333333333333
+"195.1.2","female","18-25","white","North America",0.89
+"196.1.2","male","26-35","white","North America",0.865
+"197.1.2","female","26-35","asian","Asia",0.661111111111111
+"198.1.2","female","18-25","white","North America",0.861904761904762
+"199.1.2","male","36-45","white","North America",0.85625
+"2.1.2","male","26-35","white","North America",0.893333333333333
+"20.1.2","male","46-55","white","North America",0.83
+"200.1.2","male","36-45","asian","Asia",0.8
+"201.1.2","male","26-35","asian","Asia",0.74
+"202.1.2","male","36-45","americanin","Asia",0.766666666666667
+"203.1.2","female","46-55","asian","North America",0.781818181818182
+"204.1.2","male","26-35","asian","Asia",0.730769230769231
+"205.1.2","female","56-65","asian","Asia",0.821428571428571
+"206.1.2","female","26-35","asian","Asia",0.74375
+"207.1.2","female","56-65","white","North America",0.817647058823529
+"208.1.2","male","26-35","asian","Asia",0.861904761904762
+"209.1.2","male","26-35","asian","Asia",0.84375
+"21.1.2","male","26-35","white","North America",0.84
+"210.1.2","male","18-25","asian","Asia",0.638888888888889
+"211.1.2","male","26-35","white","North America",0.90625
+"212.1.2","female","46-55","white","North America",0.863157894736842
+"213.1.2","male","26-35","white","North America",0.84375
+"214.1.2","female","36-45","white","North America",0.825
+"215.1.2","female","26-35","asian","North America",0.866666666666667
+"216.1.2","male","26-35","black","North America",0.852631578947369
+"217.1.2","female","46-55","asian","Asia",0.777777777777778
+"218.1.2","female","36-45","white","North America",0.921052631578947
+"219.1.2","female","56-65","white","North America",0.825
+"22.1.2","female","26-35","asian","Asia",0.66875
+"220.1.2","male","18-25","asian","Asia",0.717647058823529
+"221.1.2","male","46-55","asian","Asia",0.736842105263158
+"222.1.2","female","56-65","white","North America",0.907142857142857
+"223.1.2","male","36-45","asian","Asia",0.625
+"224.1.2","male","26-35","white","North America",0.85
+"225.1.2","male","26-35","asian","Asia",0.715
+"226.1.2","male","26-35","white","North America",0.836842105263158
+"227.1.2","female","36-45","asian","Asia",0.736842105263158
+"228.1.2","male","36-45","asian","Asia",0.728571428571429
+"229.1.2","female","18-25","asian","Asia",0.763157894736842
+"23.1.2","female","26-35","white","North America",0.85625
+"230.1.2","female","56-65","asian","Asia",0.773684210526316
+"231.1.2","female","18-25","white","Asia",0.705263157894737
+"232.1.2","female","18-25","white","Antarctica",0.752631578947368
+"233.1.2","male","18-25","asian","Asia",0.63
+"234.1.2","male","46-55","white","North America",0.777777777777778
+"235.1.2","male","26-35","white","North America",0.858333333333333
+"236.1.2","male","36-45","asian","Asia",0.6875
+"237.1.2","male","18-25","asian","Asia",0.747058823529412
+"238.1.2","male","26-35","asian","Asia",0.677777777777778
+"239.1.2","male","18-25","asian","Asia",0.747619047619048
+"24.1.2","female","26-35","white","North America",0.847058823529412
+"240.1.2","male","26-35","asian","Asia",0.821052631578947
+"241.1.2","female","46-55","white","North America",0.829411764705882
+"242.1.2","male","26-35","white","Europe",0.842857142857143
+"243.1.2","male","36-45","white","Europe",0.89375
+"244.1.2","male","36-45","asian","Asia",0.753333333333333
+"245.1.2","female","36-45","white","North America",0.885714285714286
+"246.1.2","male","26-35","asian","Asia",0.838888888888889
+"247.1.2","female","36-45","white","North America",0.79
+"248.1.2","male","18-25","americanin","North America",0.757894736842105
+"249.1.2","female","18-25","white","North America",0.876470588235294
+"25.1.2","male","26-35","asian","Asia",0.79375
+"250.1.2","female","26-35","asian","Asia",0.8
+"251.1.2","male","46-55","asian","Asia",0.827272727272727
+"252.1.2","male","36-45","white","Europe",0.826315789473684
+"253.1.2","male","46-55","white","North America",0.75
+"254.1.2","female","26-35","white","North America",0.842857142857143
+"255.1.2","female","56-65","asian","North America",0.86
+"256.1.2","male","18-25","asian","Asia",0.773684210526316
+"257.1.2","male","18-25","black","North America",0.77
+"258.1.2","female","36-45","unknown","North America",0.84
+"259.1.2","female","26-35","asian","North America",0.846666666666667
+"26.1.2","female","56-65","white","North America",0.822222222222222
+"260.1.2","male","36-45","white","North America",0.873684210526316
+"261.1.2","female","36-45","white","North America",0.88421052631579
+"262.1.2","male","26-35","white","North America",0.85
+"263.1.2","male","36-45","white","North America",0.877777777777778
+"264.1.2","female","36-45","white","North America",0.875
+"265.1.2","female","18-25","white","North America",0.845
+"266.1.2","male","36-45","asian","Asia",0.863157894736842
+"267.1.2","unknown","26-35","white","North America",0.882352941176471
+"268.1.2","male","26-35","asian","Asia",0.741666666666667
+"269.1.2","male","26-35","white","North America",0.792857142857143
+"27.1.2","female","46-55","white","North America",0.842105263157895
+"270.1.2","male","66+","white","North America",0.864705882352941
+"271.1.2","female","56-65","white","North America",0.828571428571429
+"272.1.2","male","36-45","asian","Asia",0.727777777777778
+"273.1.2","female","26-35","white","North America",0.888888888888889
+"274.1.2","male","26-35","asian","Asia",0.878571428571429
+"275.1.2","male","26-35","white","North America",0.847058823529412
+"276.1.2","female","36-45","white","North America",0.80625
+"277.1.2","male","26-35","asian","Asia",0.755555555555556
+"278.1.2","male","26-35","white","North America",0.838888888888889
+"279.1.2","male","36-45","asian","Asia",0.770588235294118
+"28.1.2","male","26-35","white","North America",0.882352941176471
+"280.1.2","female","26-35","asian","Asia",0.794736842105263
+"281.1.2","female","18-25","americanin","North America",0.785
+"282.1.2","male","18-25","americanin","North America",0.78
+"283.1.2","male","36-45","white","North America",0.92
+"284.1.2","male","46-55","white","North America",0.842105263157895
+"285.1.2","male","26-35","asian","Asia",0.790476190476191
+"286.1.2","female","26-35","asian","Asia",0.621052631578947
+"287.1.2","male","26-35","asian","Asia",0.79375
+"288.1.2","male","36-45","white","North America",0.85
+"289.1.2","female","56-65","white","Europe",0.88
+"29.1.2","female","36-45","white","North America",0.9
+"290.1.2","female","36-45","white","North America",0.873684210526316
+"291.1.2","male","26-35","asian","Asia",0.805555555555556
+"292.1.2","male","26-35","white","North America",0.842105263157895
+"293.1.2","female","56-65","asian","North America",0.8375
+"294.1.2","female","26-35","asian","North America",0.861538461538461
+"295.1.2","female","36-45","white","North America",0.81
+"296.1.2","female","18-25","white","North America",0.882352941176471
+"297.1.2","male","26-35","asian","Asia",0.75
+"298.1.2","female","36-45","white","North America",0.847058823529412
+"299.1.2","male","26-35","white","North America",0.828571428571429
+"3.1.2","male","36-45","asian","Asia",0.753333333333333
+"30.1.2","male","36-45","white","North America",0.794117647058824
+"300.1.2","female","46-55","asian","Asia",0.8
+"301.1.2","male","26-35","white","North America",0.8
+"302.1.2","female","26-35","black","North America",0.781818181818182
+"303.1.2","male","18-25","white","North America",0.855555555555556
+"304.1.2","male","26-35","white","North America",0.8625
+"305.1.2","female","66+","white","North America",0.83
+"306.1.2","male","26-35","asian","Asia",0.829411764705882
+"307.1.2","female","36-45","white","North America",0.845
+"308.1.2","female","36-45","white","North America",0.788888888888889
+"31.1.2","male","26-35","asian","Asia",0.688888888888889
+"32.1.2","female","26-35","asian","Asia",0.78125
+"33.1.2","male","26-35","asian","Asia",0.861904761904762
+"34.1.2","female","36-45","black","North America",0.863157894736842
+"35.1.2","male","26-35","asian","Asia",0.75
+"36.1.2","male","26-35","black","North America",0.865
+"37.1.2","male","26-35","asian","Asia",0.823809523809524
+"38.1.2","male","18-25","white","Asia",0.79
+"39.1.2","female","36-45","white","North America",0.845
+"4.1.2","male","36-45","americanin","North America",0.880952380952381
+"40.1.2","female","26-35","asian","North America",0.852631578947369
+"41.1.2","male","26-35","asian","Asia",0.8
+"42.1.2","male","18-25","white","Asia",0.755
+"43.1.2","male","26-35","asian","Asia",0.833333333333333
+"44.1.2","female","36-45","asian","Europe",0.829411764705882
+"45.1.2","female","66+","white","North America",0.831578947368421
+"46.1.2","male","36-45","asian","North America",0.814285714285714
+"47.1.2","male","36-45","americanin","North America",0.811764705882353
+"48.1.2","male","26-35","white","North America",0.88421052631579
+"49.1.2","male","26-35","white","North America",0.889473684210526
+"5.1.2","female","18-25","asian","Asia",0.559090909090909
+"50.1.2","female","26-35","white","Europe",0.776470588235294
+"51.1.2","male","26-35","white","North America",0.889473684210526
+"52.1.2","male","26-35","white","North America",0.861111111111111
+"53.1.2","female","46-55","white","North America",0.9
+"54.1.2","male","26-35","pacificisl","North America",0.861904761904762
+"55.1.2","male","46-55","white","North America",0.855555555555556
+"56.1.2","male","26-35","white","North America",0.894444444444444
+"57.1.2","female","36-45","white","North America",0.8
+"58.1.2","female","36-45","white","North America",0.811111111111111
+"59.1.2","male","26-35","white","North America",0.888888888888889
+"6.1.2","male","18-25","asian","Asia",0.609523809523809
+"60.1.2","male","26-35","white","North America",0.889473684210526
+"61.1.2","male","26-35","white","North America",0.847619047619048
+"62.1.2","female","26-35","white","North America",0.857894736842105
+"63.1.2","male","26-35","white","North America",0.894736842105263
+"64.1.2","female","26-35","white","North America",0.91578947368421
+"65.1.2","male","26-35","white","North America",0.773684210526316
+"66.1.2","female","46-55","white","North America",0.88421052631579
+"67.1.2","female","36-45","white","North America",0.876190476190476
+"68.1.2","male","26-35","white","North America",0.85
+"69.1.2","female","26-35","asian","Asia",0.710526315789474
+"7.1.2","male","18-25","asian","Asia",0.5625
+"70.1.2","female","18-25","white","North America",0.894736842105263
+"71.1.2","male","26-35","white","North America",0.78125
+"72.1.2","male","26-35","asian","Asia",0.828571428571429
+"73.1.2","female","36-45","white","North America",0.87
+"74.1.2","female","36-45","white","North America",0.822222222222222
+"75.1.2","female","36-45","white","North America",0.892857142857143
+"76.1.2","male","36-45","white","North America",0.815
+"77.1.2","female","36-45","white","North America",0.845
+"78.1.2","male","26-35","asian","Asia",0.807142857142857
+"79.1.2","male","26-35","pacificisl","North America",0.89
+"8.1.2","male","26-35","white","North America",0.855555555555556
+"80.1.2","male","36-45","white","North America",0.878947368421053
+"81.1.2","female","36-45","white","North America",0.838095238095238
+"82.1.2","female","26-35","white","North America",0.789473684210526
+"83.1.2","male","18-25","americanin","North America",0.775
+"84.1.2","male","26-35","asian","Asia",0.670588235294118
+"85.1.2","male","26-35","white","North America",0.858823529411765
+"86.1.2","male","36-45","white","North America",0.845
+"87.1.2","male","26-35","white","North America",0.873684210526316
+"88.1.2","male","26-35","white","North America",0.85625
+"89.1.2","female","26-35","asian","Asia",0.7375
+"9.1.2","male","26-35","asian","Asia",0.527777777777778
+"90.1.2","female","18-25","americanin","North America",0.76
+"91.1.2","female","26-35","white","North America",0.86875
+"92.1.2","female","18-25","white","North America",0.842105263157895
+"93.1.2","female","36-45","white","North America",0.861111111111111
+"94.1.2","male","26-35","asian","Asia",0.716666666666667
+"95.1.2","male","36-45","asian","Asia",0.8
+"96.1.2","female","26-35","white","North America",0.842857142857143
+"97.1.2","female","56-65","white","North America",0.888888888888889
+"98.1.2","female","26-35","white","North America",0.868421052631579
+"99.1.2","male","36-45","asian","Asia",0.766666666666667
+"1.2.1","female","36-45","white","North America",0.828571428571429
+"10.2.1","male","26-35","white","North America",0.836842105263158
+"100.2.1","male","36-45","white","North America",0.827777777777778
+"101.2.1","female","56-65","white","North America",0.78125
+"102.2.1","female","36-45","white","North America",0.842857142857143
+"103.2.1","female","36-45","white","North America",0.74375
+"104.2.1","male","46-55","black","North America",0.866666666666667
+"105.2.1","male","26-35","asian","Asia",0.711111111111111
+"106.2.1","female","26-35","white","North America",0.85
+"107.2.1","male","26-35","asian","Asia",0.794736842105263
+"108.2.1","female","46-55","asian","Asia",0.821428571428571
+"109.2.1","female","36-45","white","North America",0.757894736842105
+"11.2.1","female","36-45","asian","Asia",0.868421052631579
+"110.2.1","female","46-55","white","North America",0.863157894736842
+"111.2.1","male","26-35","asian","Asia",0.747058823529412
+"112.2.1","male","36-45","asian","Asia",0.792307692307692
+"113.2.1","female","36-45","asian","Asia",0.881818181818182
+"114.2.1","male","26-35","asian","Asia",0.805882352941176
+"115.2.1","female","18-25","asian","Asia",0.757894736842105
+"116.2.1","male","36-45","unknown","North America",0.792307692307692
+"117.2.1","male","36-45","asian","Asia",0.81578947368421
+"118.2.1","female","46-55","asian","North America",0.873333333333333
+"119.2.1","male","36-45","asian","Asia",0.807692307692308
+"12.2.1","male","26-35","asian","Asia",0.74
+"120.2.1","male","26-35","asian","Asia",0.675
+"121.2.1","female","56-65","white","North America",0.894117647058824
+"122.2.1","female","18-25","asian","Asia",0.752941176470588
+"123.2.1","male","36-45","white","North America",0.8
+"124.2.1","male","26-35","asian","Asia",0.678571428571429
+"125.2.1","female","26-35","asian","Asia",0.785714285714286
+"126.2.1","male","18-25","americanin","Asia",0.645454545454545
+"127.2.1","female","46-55","black","North America",0.807094339622642
+"13.2.1","male","26-35","asian","Asia",0.692857142857143
+"14.2.1","male","26-35","asian","Asia",0.808333333333333
+"15.2.1","female","26-35","asian","Asia",0.8
+"16.2.1","male","26-35","asian","Asia",0.81875
+"17.2.1","female","56-65","asian","Asia",0.693333333333333
+"18.2.1","male","26-35","asian","Asia",0.69
+"19.2.1","female","18-25","white","North America",0.844444444444444
+"2.2.1","female","36-45","americanin","North America",0.82
+"20.2.1","male","36-45","white","North America",0.861538461538461
+"21.2.1","female","46-55","white","North America",0.84375
+"22.2.1","male","26-35","white","North America",0.876923076923077
+"23.2.1","male","26-35","asian","Asia",0.838888888888889
+"24.2.1","male","26-35","black","North America",0.821428571428571
+"25.2.1","male","26-35","asian","Asia",0.746666666666667
+"26.2.1","male","36-45","asian","Asia",0.835294117647059
+"27.2.1","male","26-35","asian","Asia",0.80625
+"28.2.1","male","26-35","asian","Asia",0.82
+"29.2.1","female","26-35","asian","Asia",0.828571428571429
+"3.2.1","female","26-35","white","North America",0.785714285714286
+"30.2.1","male","26-35","asian","Asia",0.570588235294118
+"31.2.1","male","26-35","asian","Asia",0.788888888888889
+"32.2.1","male","18-25","black","Asia",0.641176470588235
+"33.2.1","male","18-25","black","Asia",0.775
+"34.2.1","male","26-35","asian","Asia",0.794117647058824
+"35.2.1","female","26-35","americanin","South America",0.7125
+"36.2.1","female","18-25","asian","Asia",0.7
+"37.2.1","female","18-25","white","Asia",0.758823529411765
+"38.2.1","female","18-25","black","Europe",0.738461538461539
+"39.2.1","male","18-25","black","Asia",0.717647058823529
+"4.2.1","female","36-45","white","North America",0.825
+"40.2.1","female","26-35","black","South America",0.664285714285714
+"41.2.1","male","26-35","asian","Asia",0.823076923076923
+"42.2.1","male","18-25","asian","North America",0.858823529411765
+"43.2.1","male","36-45","asian","North America",0.883333333333333
+"44.2.1","female","36-45","white","North America",0.81875
+"45.2.1","female","36-45","white","North America",0.876923076923077
+"47.2.1","female","18-25","white","North America",0.817647058823529
+"48.2.1","male","26-35","unknown","North America",0.863157894736842
+"49.2.1","female","46-55","white","North America",0.864705882352941
+"5.2.1","female","18-25","asian","Asia",0.758823529411765
+"50.2.1","female","36-45","white","North America",0.805882352941176
+"51.2.1","male","26-35","white","North America",0.85
+"52.2.1","male","18-25","black","Asia",0.735714285714286
+"53.2.1","female","36-45","white","North America",0.866666666666667
+"54.2.1","female","18-25","white","Asia",0.813333333333333
+"55.2.1","male","26-35","white","North America",0.8375
+"56.2.1","male","36-45","white","North America",0.827272727272727
+"57.2.1","female","18-25","black","Europe",0.717647058823529
+"58.2.1","male","26-35","white","North America",0.82
+"59.2.1","male","18-25","white","Asia",0.661111111111111
+"6.2.1","male","36-45","white","North America",0.907692307692308
+"60.2.1","male","26-35","white","North America",0.891666666666667
+"61.2.1","female","56-65","asian","Asia",0.711764705882353
+"62.2.1","female","26-35","asian","Asia",0.81875
+"63.2.1","male","26-35","white","North America",0.807142857142857
+"64.2.1","female","56-65","white","North America",0.828571428571429
+"65.2.1","male","26-35","asian","Asia",0.708333333333333
+"66.2.1","male","18-25","black","Asia",0.664705882352941
+"67.2.1","female","26-35","americanin","South America",0.677777777777778
+"68.2.1","male","26-35","asian","Asia",0.846666666666667
+"69.2.1","female","36-45","black","North America",0.825
+"7.2.1","female","36-45","white","North America",0.909090909090909
+"70.2.1","male","36-45","white","North America",0.842105263157895
+"71.2.1","female","36-45","white","North America",0.85
+"72.2.1","male","36-45","americanin","North America",0.855555555555556
+"73.2.1","male","26-35","white","North America",0.807692307692308
+"74.2.1","male","36-45","white","North America",0.828571428571429
+"75.2.1","male","26-35","white","North America",0.855555555555556
+"76.2.1","female","26-35","white","North America",0.816666666666667
+"77.2.1","female","36-45","white","North America",0.863157894736842
+"78.2.1","female","26-35","white","North America",0.85
+"79.2.1","female","26-35","white","North America",0.85
+"8.2.1","male","36-45","white","North America",0.885714285714286
+"80.2.1","male","26-35","white","North America",0.816666666666667
+"81.2.1","male","26-35","white","North America",0.85
+"82.2.1","male","26-35","asian","Asia",0.878947368421053
+"83.2.1","male","26-35","asian","Asia",0.74375
+"84.2.1","male","18-25","asian","North America",0.85
+"85.2.1","male","36-45","white","North America",0.846666666666667
+"86.2.1","male","26-35","asian","Asia",0.676470588235294
+"87.2.1","male","46-55","white","North America",0.85625
+"88.2.1","female","56-65","white","North America",0.822222222222222
+"89.2.1","female","18-25","white","North America",0.827272727272727
+"9.2.1","male","46-55","white","North America",0.846666666666667
+"90.2.1","female","56-65","white","North America",0.852941176470588
+"91.2.1","male","26-35","asian","Asia",0.794736842105263
+"92.2.1","female","26-35","white","North America",0.733333333333333
+"93.2.1","male","26-35","asian","North America",0.866666666666667
+"94.2.1","female","36-45","white","North America",0.875
+"95.2.1","female","36-45","white","North America",0.813333333333333
+"96.2.1","male","46-55","white","North America",0.85
+"97.2.1","male","26-35","asian","Asia",0.789473684210526
+"98.2.1","female","26-35","asian","Asia",0.84375
+"99.2.1",NA,NA,NA,NA,0.85
+"1.2.2","female","46-55","white","North America",0.822222222222222
+"10.2.2","male","36-45","white","North America",0.866666666666667
+"100.2.2","male","36-45","white","North America",0.81578947368421
+"101.2.2","female","26-35","white","North America",0.827777777777778
+"102.2.2","male","36-45","asian","Asia",0.81875
+"103.2.2","male","36-45","asian","Asia",0.785
+"104.2.2","female","46-55","white","North America",0.835294117647059
+"105.2.2","male","46-55","asian","Asia",0.868421052631579
+"106.2.2","male","26-35","asian","Asia",0.7
+"107.2.2","female","36-45","white","North America",0.894117647058824
+"108.2.2","male","46-55","white","Asia",0.826315789473684
+"109.2.2","male","26-35","asian","Asia",0.789473684210526
+"11.2.2","female","26-35","white","North America",0.792857142857143
+"110.2.2","female","46-55","white","North America",0.866666666666667
+"111.2.2","male","26-35","unknown","North America",0.855555555555556
+"112.2.2","female","46-55","white","North America",0.861111111111111
+"113.2.2","female","36-45","white","North America",0.85
+"114.2.2","male","36-45","asian","Asia",0.766666666666667
+"115.2.2","male","26-35","asian","Asia",0.826315789473684
+"116.2.2","male","36-45","asian","Asia",0.765
+"117.2.2","female","26-35","unknown","North America",0.808333333333333
+"118.2.2","male","26-35","asian","Asia",0.86
+"119.2.2","male","18-25","asian","Asia",0.75
+"12.2.2","female","18-25","white","Asia",0.657894736842105
+"120.2.2","male","26-35","asian","Asia",0.707142857142857
+"121.2.2","male","26-35","white","North America",0.816666666666667
+"122.2.2","female","18-25","asian","Asia",0.573684210526316
+"123.2.2","male","36-45","asian","Asia",0.705882352941176
+"124.2.2","female","56-65","asian","North America",0.775
+"125.2.2","female","36-45","white","North America",0.826315789473684
+"126.2.2","male","26-35","asian","Asia",0.88421052631579
+"127.2.2","male","36-45","asian","Asia",0.836842105263158
+"128.2.2","female","46-55","white","North America",0.817647058823529
+"129.2.2","male","36-45","white","North America",0.845
+"13.2.2","male","46-55","asian","Asia",0.927777777777778
+"130.2.2","male","18-25","asian","Asia",0.595238095238095
+"131.2.2","female","36-45","white","North America",0.91875
+"132.2.2","male","18-25","asian","Asia",0.69
+"133.2.2","male","26-35","asian","Asia",0.645
+"134.2.2","female","26-35","asian","Asia",0.810526315789474
+"135.2.2","male","26-35","white","North America",0.84
+"136.2.2","female","36-45","black","North America",0.84375
+"137.2.2","male","26-35","white","North America",0.804761904761905
+"138.2.2","male","56-65","white","North America",0.836842105263158
+"139.2.2","male","26-35","unknown","North America",0.808333333333333
+"14.2.2","male","46-55","white","North America",0.9
+"140.2.2","male","36-45","white","North America",0.858823529411765
+"141.2.2","female","56-65","white","North America",0.8375
+"142.2.2","male","26-35","asian","Asia",0.768421052631579
+"143.2.2","male","36-45","asian","Asia",0.842857142857143
+"144.2.2","male","36-45","asian","Asia",0.728571428571429
+"145.2.2","male","26-35","asian","Asia",0.764705882352941
+"146.2.2","male","26-35","white","North America",0.82
+"147.2.2","male","26-35","asian","Asia",0.695
+"148.2.2","female","56-65","white","North America",0.847368421052632
+"149.2.2","female","26-35","americanin","North America",0.75
+"15.2.2","male","46-55","white","North America",0.873684210526316
+"150.2.2","female","26-35","asian","Asia",0.835
+"151.2.2","female","46-55","asian","Asia",0.688235294117647
+"152.2.2","male","36-45","white","Europe",0.875
+"153.2.2","male","26-35","asian","Asia",0.705
+"154.2.2","male","26-35","white","North America",0.878947368421053
+"155.2.2","male","36-45","asian","Asia",0.7
+"156.2.2","male","26-35","unknown","North America",0.870588235294118
+"157.2.2","male","36-45","white","North America",0.888888888888889
+"158.2.2","male","26-35","white","North America",0.88
+"159.2.2","male","36-45","white","North America",0.838888888888889
+"16.2.2","male","26-35","white","North America",0.855555555555556
+"160.2.2","male","26-35","asian","Asia",0.7
+"161.2.2","male","26-35","asian","Asia",0.710526315789474
+"162.2.2","male","36-45","white","South America",0.782352941176471
+"163.2.2","female","56-65","white","North America",0.89375
+"164.2.2","male","26-35","unknown","North America",0.888888888888889
+"165.2.2","male","26-35","asian","Asia",0.81875
+"166.2.2","male","26-35","white","North America",0.678947368421053
+"167.2.2","female","36-45","white","North America",0.805555555555556
+"168.2.2","male","26-35","asian","Asia",0.81875
+"169.2.2","female","26-35","white","North America",0.863157894736842
+"17.2.2","male","36-45","asian","Asia",0.815384615384615
+"170.2.2","male","26-35","white","North America",0.877777777777778
+"171.2.2","male","26-35","asian","Asia",0.788888888888889
+"172.2.2","male","26-35","asian","Asia",0.852631578947369
+"173.2.2","female","26-35","white","North America",0.847058823529412
+"174.2.2","female","36-45","unknown","North America",0.785
+"175.2.2","female","66+","white","North America",0.814285714285714
+"176.2.2","female","46-55","white","North America",0.833333333333333
+"177.2.2","female","36-45","unknown","North America",0.83125
+"178.2.2","male","26-35","white","North America",0.829411764705882
+"179.2.2","female","36-45","white","North America",0.866666666666667
+"18.2.2","male","46-55","white","North America",0.855
+"180.2.2","male","26-35","asian","Asia",0.794736842105263
+"181.2.2","female","26-35","asian","Asia",0.74
+"182.2.2","male","36-45","asian","Asia",0.705555555555555
+"183.2.2","male","26-35","white","North America",0.894117647058824
+"184.2.2","male","36-45","asian","Asia",0.826315789473684
+"185.2.2","male","26-35","white","Asia",0.747368421052632
+"186.2.2","female","36-45","black","North America",0.847058823529412
+"187.2.2","male","26-35","white","North America",0.813333333333333
+"188.2.2","female","26-35","white","North America",0.789473684210526
+"189.2.2","male","26-35","white","North America",0.861111111111111
+"19.2.2","female","36-45","unknown","North America",0.842105263157895
+"190.2.2","male","26-35","asian","Asia",0.644444444444444
+"191.2.2","male","26-35","white","North America",0.811111111111111
+"192.2.2","female","46-55","white","North America",0.92
+"193.2.2","female","56-65","white","North America",0.847058823529412
+"194.2.2","male","26-35","white","North America",0.833333333333333
+"195.2.2","male","36-45","white","North America",0.873684210526316
+"196.2.2","female","18-25","white","Asia",0.67
+"197.2.2","male","18-25","americanin","Asia",0.772727272727273
+"198.2.2","female","36-45","white","North America",0.85625
+"199.2.2","male","26-35","asian","Asia",0.814285714285714
+"2.2.2","male","18-25","asian","Asia",0.821428571428571
+"20.2.2","male","26-35","white","North America",0.884615384615385
+"200.2.2","male","26-35","asian","Asia",0.744444444444444
+"201.2.2","male","26-35","asian","Asia",0.77
+"202.2.2","male","26-35","asian","Asia",0.771428571428571
+"203.2.2","female","36-45","white","North America",0.855
+"204.2.2","male","36-45","asian","Asia",0.747619047619048
+"205.2.2","male","26-35","white","Europe",0.892307692307692
+"206.2.2","female","26-35","white","North America",0.845
+"207.2.2","male","26-35","asian","Asia",0.715
+"208.2.2","male","26-35","white","North America",0.857142857142857
+"209.2.2","male","26-35","white","North America",0.827777777777778
+"21.2.2","female","36-45","white","North America",0.885
+"210.2.2","male","26-35","asian","Asia",0.65625
+"211.2.2","male","26-35","white","North America",0.81875
+"212.2.2","male","36-45","white","North America",0.857894736842105
+"213.2.2","male","36-45","asian","North America",0.789473684210526
+"214.2.2","male","26-35","white","North America",0.85
+"215.2.2","female","36-45","white","North America",0.88421052631579
+"216.2.2","female","56-65","white","North America",0.886666666666667
+"217.2.2","female","18-25","white","Asia",0.689473684210526
+"218.2.2","male","26-35","white","North America",0.833333333333333
+"219.2.2","male","36-45","white","South America",0.875
+"22.2.2","female","66+","white","North America",0.782352941176471
+"220.2.2","male","46-55","black","North America",0.831578947368421
+"221.2.2","male","18-25","asian","North America",0.852941176470588
+"222.2.2","male","46-55","white","North America",0.865
+"223.2.2","male","26-35","white","Europe",0.877777777777778
+"224.2.2","male","26-35","white","North America",0.788235294117647
+"225.2.2","male","26-35","white","North America",0.766666666666667
+"226.2.2","male","36-45","white","North America",0.85625
+"227.2.2","male","46-55","white","North America",0.8625
+"228.2.2","male","26-35","black","North America",0.847058823529412
+"229.2.2","male","26-35","white","North America",0.873684210526316
+"23.2.2","female","46-55","white","North America",0.841176470588235
+"230.2.2","female","26-35","asian","Asia",0.761111111111111
+"231.2.2","female","36-45","white","North America",0.825
+"232.2.2","male","26-35","asian","Asia",0.86
+"233.2.2","male","26-35","asian","Asia",0.731578947368421
+"234.2.2","male","26-35","white","North America",0.844444444444444
+"235.2.2","female","66+","white","North America",0.890476190476191
+"236.2.2","male","18-25","americanin","Asia",0.761904761904762
+"237.2.2","male","46-55","white","North America",0.833333333333333
+"238.2.2","male","26-35","white","North America",0.836842105263158
+"239.2.2","male","46-55","white","North America",0.865
+"24.2.2","female","56-65","white","North America",0.807692307692308
+"240.2.2","female","36-45","white","North America",0.864285714285714
+"241.2.2","male","36-45","white","North America",0.88125
+"242.2.2","male","46-55","white","North America",0.833333333333333
+"243.2.2","female","36-45","white","North America",0.865
+"244.2.2","male","26-35","asian","Asia",0.8
+"245.2.2","female","36-45","asian","Asia",0.861111111111111
+"246.2.2","female","46-55","asian","North America",0.88
+"247.2.2","male","26-35","white","North America",0.835294117647059
+"248.2.2","female","36-45","white","North America",0.8625
+"249.2.2","male","56-65","white","North America",0.807692307692308
+"25.2.2","female","56-65","unknown","North America",0.833333333333333
+"250.2.2","male","36-45","asian","Asia",0.822222222222222
+"251.2.2","male","26-35","asian","Asia",0.578947368421053
+"252.2.2","male","46-55","white","North America",0.842105263157895
+"253.2.2","female","46-55","white","North America",0.876470588235294
+"254.2.2","male","26-35","white","North America",0.882352941176471
+"255.2.2","male","36-45","asian","Asia",0.823529411764706
+"256.2.2","female","26-35","white","North America",0.84
+"257.2.2","female","26-35","white","North America",0.872222222222222
+"258.2.2","male","26-35","asian","Antarctica",0.772222222222222
+"259.2.2","male","18-25","americanin","Asia",0.752631578947368
+"26.2.2","male","26-35","white","North America",0.83125
+"260.2.2","female","18-25","white","Asia",0.705263157894737
+"261.2.2","male","36-45","asian","Asia",0.736842105263158
+"262.2.2","male","26-35","white","North America",0.886666666666667
+"263.2.2","female","56-65","white","North America",0.87
+"264.2.2","male","18-25","asian","North America",0.845
+"265.2.2","male","36-45","white","North America",0.846666666666667
+"266.2.2","female","26-35","asian","Asia",0.855555555555556
+"267.2.2","male","26-35","white","North America",0.836842105263158
+"268.2.2","male","26-35","white","Asia",0.709090909090909
+"269.2.2","male","46-55","white","North America",0.844444444444444
+"27.2.2","male","26-35","white","Asia",0.704761904761905
+"270.2.2","male","26-35","asian","Asia",0.792307692307692
+"271.2.2","female","18-25","asian","Asia",0.7875
+"272.2.2","male","26-35","white","Asia",0.752380952380952
+"273.2.2","male","26-35","asian","Asia",0.8125
+"274.2.2","male","26-35","white","North America",0.816666666666667
+"275.2.2","male","26-35","white","North America",0.85
+"276.2.2","female","26-35","asian","Asia",0.76
+"277.2.2","male","46-55","white","North America",0.865
+"278.2.2","male","18-25","white","Asia",0.752941176470588
+"279.2.2","female","56-65","asian","North America",0.916666666666667
+"28.2.2","male","26-35","white","North America",0.836842105263158
+"280.2.2","male","36-45","white","North America",0.816666666666667
+"281.2.2","male","36-45","white","North America",0.884615384615385
+"282.2.2","male","26-35","unknown","North America",0.80625
+"283.2.2","unknown","26-35","white","North America",0.806666666666667
+"284.2.2","male","26-35","white","North America",0.823809523809524
+"285.2.2","male","26-35","white","South America",0.783333333333333
+"286.2.2","male","26-35","white","North America",0.852941176470588
+"287.2.2","male","26-35","white","North America",0.8
+"288.2.2","male","26-35","asian","Asia",0.809090909090909
+"289.2.2","male","26-35","white","North America",0.86
+"29.2.2","male","26-35","white","North America",0.844444444444444
+"290.2.2","male","36-45","asian","Asia",0.772222222222222
+"291.2.2","male","26-35","asian","Asia",0.727777777777778
+"292.2.2","male","26-35","white","North America",0.833333333333333
+"293.2.2","male","26-35","asian","Asia",0.8
+"294.2.2","female","26-35","white","Asia",0.736842105263158
+"295.2.2","female","56-65","white","North America",0.814285714285714
+"296.2.2","female","36-45","white","North America",0.822222222222222
+"297.2.2","female","46-55","white","North America",0.852631578947369
+"298.2.2","male","26-35","white","North America",0.905263157894737
+"299.2.2","female","66+","white","North America",0.836842105263158
+"3.2.2","female","46-55","asian","Asia",0.8
+"30.2.2","male","26-35","asian","Asia",0.773333333333333
+"300.2.2","male","26-35","white","Europe",0.861904761904762
+"301.2.2","female","26-35","white","North America",0.831578947368421
+"302.2.2","male","56-65","white","North America",0.838888888888889
+"303.2.2","male","36-45","asian","Asia",0.77
+"304.2.2","male","36-45","asian","North America",0.811111111111111
+"305.2.2","male","26-35","white","North America",0.88125
+"306.2.2","female","36-45","white","North America",0.866666666666667
+"307.2.2","female","36-45","white","North America",0.9
+"31.2.2","female","46-55","white","North America",0.852941176470588
+"32.2.2","male","26-35","asian","North America",0.811111111111111
+"33.2.2","male","36-45","white","North America",0.8
+"34.2.2","male","26-35","asian","Asia",0.835
+"35.2.2","male","26-35","white","North America",0.855
+"36.2.2","male","26-35","asian","Asia",0.847619047619048
+"37.2.2","female","36-45","white","North America",0.852631578947369
+"38.2.2","male","26-35","unknown","North America",0.878947368421053
+"39.2.2","male","26-35","asian","Asia",0.59047619047619
+"4.2.2","male","36-45","asian","Asia",0.8
+"40.2.2","female","56-65","white","North America",0.7
+"41.2.2","female","36-45","white","North America",0.865
+"42.2.2","female","36-45","white","North America",0.826666666666667
+"43.2.2","female","46-55","asian","North America",0.933333333333333
+"44.2.2","female","36-45","white","North America",0.844444444444444
+"45.2.2","male","26-35","asian","Asia",0.78125
+"46.2.2","female","36-45","white","North America",0.844444444444444
+"47.2.2","female","26-35","white","North America",0.83
+"48.2.2","male","26-35","asian","Asia",0.766666666666667
+"49.2.2","male","26-35","white","North America",0.811111111111111
+"5.2.2","male","18-25","white","Asia",0.78
+"50.2.2","female","26-35","asian","Asia",0.727777777777778
+"51.2.2","male","26-35","white","North America",0.805263157894737
+"52.2.2","male","36-45","asian","Asia",0.821052631578947
+"53.2.2","male","26-35","americanin","North America",0.714285714285714
+"54.2.2","male","26-35","white","North America",0.855555555555556
+"55.2.2","female","46-55","white","North America",0.81875
+"56.2.2","female","36-45","white","North America",0.91578947368421
+"57.2.2","male","26-35","white","North America",0.870588235294118
+"58.2.2","male","36-45","white","North America",0.885714285714286
+"59.2.2","male","46-55","white","North America",0.847619047619048
+"6.2.2","female","36-45","white","North America",0.885
+"60.2.2","male","26-35","white","North America",0.80625
+"61.2.2","male","26-35","white","North America",0.9
+"62.2.2","male","26-35","asian","Asia",0.714285714285714
+"63.2.2","male","36-45","white","North America",0.871428571428571
+"64.2.2","female","36-45","white","North America",0.81875
+"65.2.2","male","26-35","asian","Asia",0.695
+"66.2.2","male","46-55","white","North America",0.827777777777778
+"67.2.2","female","18-25","white","North America",0.866666666666667
+"68.2.2","female","26-35","asian","Asia",0.84
+"69.2.2","male","26-35","black","North America",0.857894736842105
+"7.2.2","male","36-45","white","North America",0.826315789473684
+"70.2.2","male","46-55","white","North America",0.79375
+"71.2.2","female","36-45","white","North America",0.855
+"72.2.2","female","56-65","white","North America",0.819047619047619
+"73.2.2","female","36-45","unknown","North America",0.805555555555556
+"74.2.2","male","26-35","white","North America",0.883333333333333
+"75.2.2","female","26-35","white","North America",0.766666666666667
+"76.2.2","male","26-35","white","North America",0.877777777777778
+"77.2.2","female","26-35","white","North America",0.841176470588235
+"78.2.2","male","26-35","white","South America",0.683333333333333
+"79.2.2","male","26-35","white","North America",0.87
+"8.2.2","female","46-55","white","North America",0.861904761904762
+"80.2.2","male","18-25","white","Asia",0.768421052631579
+"81.2.2","female","18-25","asian","South America",0.773684210526316
+"82.2.2","female","56-65","white","Europe",0.83
+"83.2.2","male","26-35","asian","Asia",0.8
+"84.2.2","female","36-45","black","North America",0.9125
+"85.2.2","unknown","26-35","white","North America",0.847368421052632
+"86.2.2","female","46-55","white","North America",0.9
+"87.2.2","male","26-35","asian","Asia",0.773684210526316
+"88.2.2","female","56-65","white","North America",0.844444444444444
+"89.2.2","male","26-35","black","North America",0.888888888888889
+"9.2.2","male","26-35","white","Europe",0.870588235294118
+"90.2.2","male","26-35","asian","Asia",0.647368421052632
+"91.2.2","male","26-35","white","Europe",0.866666666666667
+"92.2.2","female","36-45","white","North America",0.892857142857143
+"93.2.2","female","66+","white","North America",0.877272727272727
+"94.2.2","female","66+","white","North America",0.82
+"95.2.2","male","26-35","asian","Asia",0.723809523809524
+"96.2.2","male","26-35","white","North America",0.911111111111111
+"97.2.2","male","26-35","americanin","North America",0.828571428571429
+"98.2.2","male","26-35","white","North America",0.7875
+"99.2.2","male","36-45","asian","Asia",0.809090909090909
