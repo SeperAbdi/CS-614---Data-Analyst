@@ -1,1 +1,1 @@
-# CS 614 Data Analytics 
+# CS 614 - Data Analytics 
